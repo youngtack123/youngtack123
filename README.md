@@ -39,7 +39,6 @@ hobbies: ["Movies", "Tennis", "Youtube", "Workout"]
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
   ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
