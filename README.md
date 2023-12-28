@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-<h3 align="center">A meticulous and passionate Front-End developer from South Korea🇰🇷</h3>
+<h3 align="center">A delicate Front-End developer from South Korea🇰🇷 who highly values the significance of communication :)</h3>
 <h3 align="center">안녕하세요👋 섬세하고 소통을 가장 중요시하는 프론트엔드 개발자 홍영택입니다 :)</h3>
 
 
