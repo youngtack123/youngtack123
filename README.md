@@ -2,7 +2,7 @@
 
 <br />
 
-<h3 align="center">"Hello👋, I'm YoungTack Hong, a meticulous Front-End developer who values communication above all."</h3>
+<h3 align="center">"Hello👋, I'm Youngtack Hong, <br />a meticulous Front-End developer who values communication above all"</h3>
 <h3 align="center">안녕하세요👋 섬세하고 소통을 가장 중요시하는 프론트엔드 개발자 홍영택입니다 :)</h3>
 
 
